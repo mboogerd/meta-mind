@@ -1,8 +1,10 @@
-/*
-
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.setting-item-child {
+    background-color: var(--background-secondary);
+    padding-left: 1em;
+    padding-right: 1em;
+    border-top: 0.5px solid var(--background-primary);
+    /* animation: child-enter 0.3s ease; */
+}
+.setting-item-child textarea, .setting-item-child input {
+    background-color: var(--background-primary);
+}

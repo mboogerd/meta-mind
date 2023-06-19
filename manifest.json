@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "meta-mind",
+	"name": "Meta Mind",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "GPT-powered helper for your Obsidian second brain",
+	"author": "Merlijn Boogerd",
+	"authorUrl": "https://github.com/mboogerd/meta-mind",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
